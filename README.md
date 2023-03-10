@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="https://chinmay.vercel.app/" target="_blank">chinmay.tech</a>
+  <a href="https://chinmay.vercel.app/" target="_blank">chinmay.vercel.app/</a>
 </h2>
 <div align="center">
   <img alt="Demo" src=".\src\Assets\Projects\Mockup.png" />
