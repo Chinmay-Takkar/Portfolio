@@ -123,7 +123,6 @@ button:focus {
   .navbar {
   padding: 1rem 2rem !important;
   font-size: 1.4rem !important;
-  background-color: #071148 !important;
   }
   .navbar-nav .nav-item a::after {
   display: none !important;
@@ -236,7 +235,7 @@ button:focus {
   .home-section {
     position: relative;
     z-index: -1;
-    background-image: var(--image-gradient), url(./Assets/home-bg.jpg);
+    background-image: var(--image-gradient), url(./Assets/home-bg.png);
     background-position: top center;
     background-repeat: no-repeat;
     padding-bottom: 30px !important;
@@ -245,7 +244,7 @@ button:focus {
     
     .home-content {
     padding: 9rem 0 2rem !important;
-    color: #333;
+    color: #049d4e;
     text-align: left;
     }
     
@@ -256,7 +255,7 @@ button:focus {
     
     .heading-name {
     font-size: 2.5em !important;
-    padding-left: 45px !important;
+    padding-left: 50px !important;
     }
     
     .main-name {
@@ -497,8 +496,8 @@ button:focus {
 
 .btn-primary {
   color: #fff !important;
-  background-color: #623686 !important;
-  border-color: #623686 !important;
+  background-color: #368673 !important;
+  border-color: #368673 !important;
 }
 
 .btn-primary:hover {

@@ -10,7 +10,6 @@ function Type() {
           "UI/UX Designer",
           "Student",
           "Open Source Contributor",
-          "Learner",
         ],
         autoStart: true,
         loop: true,

@@ -17,40 +17,42 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              A  <span className="purple">LITTLE BIT ABOUT </span> ME
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤔
+            Hello! I'm a programming enthusiast who has a passion for building and designing innovative web technologies and products.
               <br />
-              <br />I am fluent in classics like
+              <br />I'm fluent in classic programming languages such as 
               <i>
                 <b className="purple"> C++, Java and JavaScript. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building and designing new &nbsp;
+              My primary areas of interest are building and designing new &nbsp;
               <i>
                 <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                I'm also interested in {" "}
                 <b className="purple">
-                  Cloud Computing.
+                Cloud Computing and Related Technologies.
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              I believe in using the latest technologies to create innovative products that meet the needs of modern businesses and consumers.
+              I enjoy working with<b className="purple">Node.js</b> and
               <i>
                 <b className="purple">
                   {" "}
                   Modern Javascript Library and Framework
                 </b>
-              </i>
               &nbsp; like
               <i>
                 <b className="purple"> React.js</b>
               </i>
+              </i>
+              <br/>
+              <br/>
+              I believe in using the latest technologies to create innovative products that meet the needs of modern businesses and consumers.
             </p>
           </Col>
           <Col md={4} className="myAvtar">

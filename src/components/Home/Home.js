@@ -19,15 +19,25 @@ function Home() {
                   👋🏻
                 </span>
               </h1>
-
-              <h1 className="heading-name">
+              <h1  className="heading-name">
                 I'M
                 <strong className="main-name"> CHINMAY TAKKAR </strong>
               </h1>
 
-              <div style={{ padding: 50, textAlign: "left" }}>
+              <h1 className="heading">
+              You Are Finding For A
+              </h1>
+
+              <div style={{ paddingLeft :50, paddingTop : 25 , paddingBottom : 50 , paddingRight : 50 ,  textAlign: "left" }}>
                 <Type />
               </div>
+             
+              <h1 className="heading">
+              Then You Are at Right Place 😎
+              </h1>
+              
+
+              
             </Col>
 
             <Col md={5} style={{ paddingBottom: 20 }}>
