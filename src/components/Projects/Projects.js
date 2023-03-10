@@ -2,12 +2,9 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
+import HackerBoost from "../../Assets/Projects/HackerBoost.png";
 import Covid from "../../Assets/Projects/Covid.png";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import Meet from "../../Assets/Projects/Meet.png";
 
 function Projects() {
   return (
@@ -33,7 +30,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={Meet}
               isBlog={false}
               title="Bridge-Meet"
               description="Bridge-Meet is a personal video calling application developed using React.js, Firebase, Elastic UI and ZegoCloud. It allows users to create and join video calls with other users, and features include Google authentication, real-time communication, and React-Router to create a Single Page Application. It is integrated with ZegoCloud, providing high-quality video calling with low latency and reduced packet loss."
@@ -43,7 +40,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={HackerBoost}
               isBlog={false}
               title="HackerBoost"
               description="HackerBoost is an automation tool developed using Node.js for HackerRank, designed to automate repetitive tasks such as logging in and adding moderators to contests. It uses Puppeteer to interact with the platform and enhance efficiency and productivity, reducing the workload of administrators. The tool is reliable, able to handle a large number of tasks simultaneously and quickly."
