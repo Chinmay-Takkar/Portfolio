@@ -3,7 +3,7 @@
   <a href="https://chinmay.vercel.app/" target="_blank">chinmay.vercel.app</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="..\..\src\Assets\Projects\Mockup.png" />
+  <img alt="Demo" src="..\..\Images\Mockup.png" />
 </div>
 
 <br/>
