@@ -381,10 +381,11 @@ button:focus {
       / Footer /
       / --------- */
       .footer {
-      background-color: #001365;
+      background-color: #2e2e34;
       bottom: 0 !important;
       padding-top: 10px !important;
       padding-bottom: 8px !important ;
+      backdrop-filter: blur(15px)
       }
       .footer-copywright {
       text-align: center !important;
