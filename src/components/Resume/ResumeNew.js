@@ -24,7 +24,7 @@ function ResumeNew() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
-            href={pdf}
+            href={"https://raw.githubusercontent.com/Chinmay-Takkar/Resume/main/Resume_ChinmayTakkar.pdf"}
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
