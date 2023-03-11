@@ -13,6 +13,21 @@ function AboutCard() {
             <br />I am a junior pursuing B.Tech in Computer Science and Engineering from BPIT.
             <br />
             <br />
+            <ul>
+            <li>I am fluent in several programming languages, including <span className="purple"> C++, Java, and JavaScript</span>.</li>
+            <br />
+            <li>My primary interest lies in designing and building cutting-edge <span className="purple"> Web Technologies and Products</span>.</li>
+            <br />
+            <li>I have a passion for exploring <span className="purple"> Cloud Computing and Related Technologies</span> to create innovative and efficient solutions.</li>
+            <br />
+            <li>I believe in staying up-to-date with the latest technologies to build successful and impactful products.</li>
+            <br />
+            <li>I enjoy working with <span className="purple">Modern JavaScript Libraries and Frameworks</span>, particularly Node.js and React.js, to create powerful and scalable applications.</li>
+            <br />
+            <li>Proficient in <span className="purple">UI/UX design principles and tools</span>, such as <span className="purple">Sketch, Figma, and Adobe XD</span>, I understand the importance of creating user-friendly interfaces to enhance product usability and success.</li>
+            </ul> 
+            <br />
+            <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>

@@ -39,7 +39,7 @@ function Home2() {
               <br />
               <br />
               I believe in using the latest technologies to create innovative products that meet the needs of modern businesses and consumers.
-              I enjoy working with<b className="purple">Node.js</b> and
+              I enjoy working with <b className="purple"> {" "}Node.js</b> and
               <i>
                 <b className="purple">
                   {" "}
