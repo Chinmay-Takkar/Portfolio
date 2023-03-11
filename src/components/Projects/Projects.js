@@ -44,7 +44,7 @@ function Projects() {
               isBlog={false}
               title="HackerBoost"
               description="HackerBoost is an automation tool developed using Node.js for HackerRank, designed to automate repetitive tasks such as logging in and adding moderators to contests. It uses Puppeteer to interact with the platform and enhance efficiency and productivity, reducing the workload of administrators. The tool is reliable, able to handle a large number of tasks simultaneously and quickly."
-              ghLink="https://github.com/Chinmay-Takkar/HackerBoost"          
+              ghLink="https://github.com/Chinmay-Takkar/HackerBoost"         
             />
           </Col>
 
