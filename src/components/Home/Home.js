@@ -25,7 +25,7 @@ function Home() {
               </h1>
 
               <h1 className="heading">
-              You Are Finding For A
+              You Are Looking For A
               </h1>
 
               <div style={{ paddingLeft :30, paddingTop : 25 , paddingBottom : 50 , paddingRight : 50 ,  textAlign: "left" }}>
