@@ -13,7 +13,7 @@ function Home() {
         <Container className="home-content">
           <Row>
             <Col md={7} className="home-header">
-              <h1 style={{ paddingBottom: 15 }} className="heading">
+              <h1 className="heading">
                 Hi There!{" "}
                 <span className="wave" role="img" aria-labelledby="wave">
                   👋🏻
@@ -28,7 +28,7 @@ function Home() {
               You Are Finding For A
               </h1>
 
-              <div style={{ paddingLeft :50, paddingTop : 25 , paddingBottom : 50 , paddingRight : 50 ,  textAlign: "left" }}>
+              <div style={{ paddingLeft :30, paddingTop : 25 , paddingBottom : 50 , paddingRight : 50 ,  textAlign: "left" }}>
                 <Type />
               </div>
              
