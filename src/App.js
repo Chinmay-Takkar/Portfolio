@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useMemo  } from "react";
 import Preloader from "../src/components/Pre";
 import Navbar from "./components/Navbar";
 import Home from "./components/Home/Home";
@@ -28,12 +28,16 @@ function App() {
     return () => clearTimeout(timer);
   }, []);
 
+  const navbar = useMemo(() => <Navbar />, []);
+  const scrollToTop = useMemo(() => <ScrollToTop />, []);
+  const footer = useMemo(() => <Footer />, []);
+
   return (
     <Router>
       <Preloader load={load} />
       <div className="App" id={load ? "no-scroll" : "scroll"}>
-        <Navbar />
-        <ScrollToTop />
+        {navbar}
+        {scrollToTop}
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/project" element={<Projects />} />
@@ -41,7 +45,7 @@ function App() {
           <Route path="/resume" element={<Resume />} />
           <Route path="*" element={<Navigate to="/"/>} />
         </Routes>
-        <Footer />
+        {footer}
       </div>
     </Router>
   );
