@@ -24,7 +24,7 @@ function ResumeNew() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
-            href={"https://raw.githubusercontent.com/Chinmay-Takkar/Resume/main/Resume_ChinmayTakkar.pdf"}
+            href={"https://drive.google.com/file/d/1BseRUHF-WTqUV-qwMiK_2YLQABpzFQjp/view"}
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
@@ -42,7 +42,7 @@ function ResumeNew() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
-            href={"https://raw.githubusercontent.com/Chinmay-Takkar/Resume/main/Resume_ChinmayTakkar.pdf"}
+            href={"https://drive.google.com/file/d/1BseRUHF-WTqUV-qwMiK_2YLQABpzFQjp/view"}
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
