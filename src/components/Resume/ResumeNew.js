@@ -24,7 +24,7 @@ function ResumeNew() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
-            href={"https://raw.githubusercontent.com/Chinmay-Takkar/Resume/main/Resume_ChinmayTakkar.pdf"}
+            href={"https://media.licdn.com/dms/document/media/D4D2DAQGjaUdJuX0aQw/profile-treasury-document-pdf-analyzed/0/1687205340023?e=1687996800&v=beta&t=AwV5Fqoa69nOA6PxXaFOsfAUbQ9E0IjAFuZjzQz8ExY"}
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
@@ -42,7 +42,7 @@ function ResumeNew() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
-            href={"https://raw.githubusercontent.com/Chinmay-Takkar/Resume/main/Resume_ChinmayTakkar.pdf"}
+            href={"https://media.licdn.com/dms/document/media/D4D2DAQGjaUdJuX0aQw/profile-treasury-document-pdf-analyzed/0/1687205340023?e=1687996800&v=beta&t=AwV5Fqoa69nOA6PxXaFOsfAUbQ9E0IjAFuZjzQz8ExY"}
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
