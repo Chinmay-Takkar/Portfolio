@@ -23,7 +23,7 @@ function ResumeNew() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
-            href={"https://drive.google.com/file/d/1BseRUHF-WTqUV-qwMiK_2YLQABpzFQjp/view"}
+            href={"https://drive.google.com/file/d/1H5zjGFx0d529zgfmru1Yu3LiBAqIkBER/view"}
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
@@ -41,7 +41,7 @@ function ResumeNew() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
-            href={"https://drive.google.com/file/d/1BseRUHF-WTqUV-qwMiK_2YLQABpzFQjp/view"}
+            href={"https://drive.google.com/file/d/1H5zjGFx0d529zgfmru1Yu3LiBAqIkBER/view"}
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
